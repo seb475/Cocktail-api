@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 2rem;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: rgb(34, 32, 32);
+}
+
+.Drink-card {
+  color: rgb(245, 245, 243);
+  background-color: rgb(235, 133, 38);
+  border: 3px solid rgb(247, 246, 240);
+  margin: 1rem auto;
+  width: 300px;
+}
+
+::placeholder { color: rgb(219, 134, 5); }
+
+p {
+  color: rgb(253, 251, 247);
+ 
+}
+input{
+  max-width: 150px;
+  max-height: 30px;
+  border-radius: 8px;
+  border: 1rem;
+  margin: 1rem;
+  
+}
+
+img {
+  max-width: 100%;
+}
+span{
+  color: rgb(20, 228, 228);
+}
+.Title{
+  color: rgb(12, 12, 12);
+}
